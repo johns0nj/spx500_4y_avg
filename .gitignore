@@ -1,8 +1,7 @@
 # 代码生成的文件输出文件夹
 output/
 
-# 输入数据文件夹
-input/
+
 
 # Python 缓存文件
 __pycache__/
